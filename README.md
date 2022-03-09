@@ -15,7 +15,7 @@ Answer: The formats AAC, AIFF, FLAC, M4A, MP3, OPUS, WAV and WMA are currently s
 
 Question: **How do i find and download songs?**
 
-Answer: Navigate to the website from [here](https://freakinsoftmania.unaux.com/illegalmusic/). Use the <kbd><img src="https://user-images.githubusercontent.com/66115754/157065153-ec68ef38-2d12-4cfb-885f-c02917b8c5c3.png" width="11"></kbd> button to search for your song on the community/library, the choose the format that is right for you (Or the one which is available in only 1 format.) Or click the preffered format, and scroll through the list to find your favourite song. When you found the song just click on it's name, it will open a new tab with a music player. Now, click on the three dots menu, and select ``Download``. Now it starts downloading or it asks to download it.
+Answer: Navigate to the website from [here](https://freakinsoftmania.unaux.com/illegalmusic/). Use the <kbd><img src="https://user-images.githubusercontent.com/66115754/157065153-ec68ef38-2d12-4cfb-885f-c02917b8c5c3.png" width="11"></kbd> button to search for your song on the community/library, then choose the format that is right for you (Or the one which is available in only 1 format.) Or click the preffered format, and scroll through the list to find your favourite song. When you found the song just click on it's name, it will open a new tab with a music player. Now, click on the three dots menu, and select ``Download``. Now it starts downloading or it asks to download it.
 
 Question: **Is there a public Discord server?**
 
