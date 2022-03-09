@@ -24,3 +24,5 @@ Question: **Is there a public Discord server?**
 Answer: Yes, you can find it [here](https://discord.gg/72UF3GQ3uA).
 # Suggestions
 Have suggestions about audio formats or other things? These can be post in the Discord server listed above.
+# README on website
+You can easily find these rules, FAQ and other things on the website on a file called ``readme.txt`` in the root of the website.
