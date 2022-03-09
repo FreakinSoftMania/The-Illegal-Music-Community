@@ -4,6 +4,8 @@ A library with music for free that is illegal stored.
 1. Please upload the music with the cover art and other information if available, and the normal title. It is recommended to use [Loader.To](https://loader.to) to download this music and use the lyrics video as source as this mostly has the music only and not an intro from the channel or something else. When you get a notification to download, just download it and click away the opened tab, as it is spam.
 2. **NO** inappropriate content. Music not filled with swearing only is allowed.
 3. Be sure to check with the <kbd><img src="https://user-images.githubusercontent.com/66115754/157065153-ec68ef38-2d12-4cfb-885f-c02917b8c5c3.png" width="11"></kbd> button to see of the song you want to publish not already is uploaded. If, you can publish it in a different audio format when not existing.
+# Maximum filesize
+The maximum filesize to upload music is **100 MB**. Do not make suggestions to increase it, as this will make uploading music not possible for formats as for example WAV.
 # FAQ
 Question: **Is it free to upload by and from anyone?**
 
